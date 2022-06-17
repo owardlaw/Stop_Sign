@@ -17,3 +17,5 @@ cd detectron2
 pip install -e .
 
 ```
+
+![plot](detection.jpg)
