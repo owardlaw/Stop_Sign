@@ -1,2 +1,3 @@
-# ignore ALL .pth files
+# ignore files
 *.pth
+*.0
